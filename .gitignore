@@ -1,0 +1,46 @@
+# MATLAB/Simulink
+*.asv
+*.slxc
+slprj/
+*.autosave
+*.slx.original
+*.slx.r*
+
+# Simulink Cache
+*.slxc
+
+# Code Generation
+codegen/
+
+# Simulink Code Inspector
+*.sci
+
+# Model Advisor
+ModelAdvisorData/
+
+# Simulink Report
+sldv_output/
+*.rpt
+
+# Generated files
+*.slx
+*.mdl
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Linux
+*~
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
